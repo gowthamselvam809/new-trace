@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/strikingdash-react/static/css/main.cf5c3bc2.css",
+    "main.js": "/strikingdash-react/static/js/main.91e454f2.js",
+    "static/js/361.5f78a790.chunk.js": "/strikingdash-react/static/js/361.5f78a790.chunk.js",
+    "static/js/978.ed5ca67f.chunk.js": "/strikingdash-react/static/js/978.ed5ca67f.chunk.js",
+    "static/js/709.74100a94.chunk.js": "/strikingdash-react/static/js/709.74100a94.chunk.js",
+    "static/js/266.f52593fa.chunk.js": "/strikingdash-react/static/js/266.f52593fa.chunk.js",
+    "static/js/206.35141ba5.chunk.js": "/strikingdash-react/static/js/206.35141ba5.chunk.js",
+    "static/js/683.a631a8fb.chunk.js": "/strikingdash-react/static/js/683.a631a8fb.chunk.js",
+    "static/js/836.6ed80d5c.chunk.js": "/strikingdash-react/static/js/836.6ed80d5c.chunk.js",
+    "static/js/888.3f090af6.chunk.js": "/strikingdash-react/static/js/888.3f090af6.chunk.js",
+    "static/js/136.cc8f52aa.chunk.js": "/strikingdash-react/static/js/136.cc8f52aa.chunk.js",
+    "static/js/769.dd15c4fd.chunk.js": "/strikingdash-react/static/js/769.dd15c4fd.chunk.js",
+    "static/js/59.b69fe7da.chunk.js": "/strikingdash-react/static/js/59.b69fe7da.chunk.js",
+    "static/js/544.6d963db0.chunk.js": "/strikingdash-react/static/js/544.6d963db0.chunk.js",
+    "static/js/101.6d099391.chunk.js": "/strikingdash-react/static/js/101.6d099391.chunk.js",
+    "static/media/logo.svg": "/strikingdash-react/static/media/logo.5ed8535847058eee16d1523c920a20b4.svg",
+    "static/media/Logo_Dark.svg": "/strikingdash-react/static/media/Logo_Dark.b178d944cfac3abab49da210ad9c5fd2.svg",
+    "index.html": "/strikingdash-react/index.html",
+    "static/media/arrow-right.svg": "/strikingdash-react/static/media/arrow-right.e2a9f4b720ac4c3cb6e8997b5583d631.svg",
+    "static/media/arrow-left.svg": "/strikingdash-react/static/media/arrow-left.467dd09af694b8027bb2c0e1f0518814.svg"
+  },
+  "entrypoints": [
+    "static/css/main.cf5c3bc2.css",
+    "static/js/main.91e454f2.js"
+  ]
+}
